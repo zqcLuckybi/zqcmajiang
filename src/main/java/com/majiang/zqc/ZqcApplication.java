@@ -8,5 +8,4 @@ public class ZqcApplication {
     public static void main(String[] args) {
         SpringApplication.run(ZqcApplication.class, args);
     }
-
 }
